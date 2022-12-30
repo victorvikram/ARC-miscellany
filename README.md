@@ -12,7 +12,7 @@ This contains a single notebook that runs the third place solution end-to-end. F
 This script scores submission files. See the comments in the file for how to use it.
 
 # draw-arc.ipynb
-This notebook takes a json ARC file as input and outputs (what I believe to be) a nice-looking depiction of the problem.
+This notebook takes a json ARC file as input and outputs (what I believe to be) a nice-looking depiction of the problem. See the first cell of the notebook for instructions.
 
 # Other repositories
 * For an ARC editor, go to (ARC site)[https://github.com/victorvikram/arc-site].
