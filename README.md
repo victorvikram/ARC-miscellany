@@ -14,6 +14,9 @@ This script scores submission files. See the comments in the file for how to use
 # draw-arc.ipynb
 This notebook takes a json ARC file as input and outputs (what I believe to be) a nice-looking depiction of the problem. See the first cell of the notebook for instructions.
 
+# arc-datasets
+These are common sets of ARC problems that I have been using
+
 # Other repositories
 * For an ARC editor, go to (ARC site)[https://github.com/victorvikram/arc-site].
 * To modify the ARC editor, go to (ARC app)[https://github.com/victorvikram/arc-app].
