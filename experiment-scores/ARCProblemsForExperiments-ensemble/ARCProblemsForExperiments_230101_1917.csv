@@ -1,0 +1,529 @@
+,problem_file,index,third-place_check,first-place_check,merged_check,third-place_indices,first-place_indices,merged_indices
+0,AboveBelow1.json,0,False,True,True,,1,1
+1,AboveBelow1.json,1,True,True,True,1,1,1
+2,AboveBelow1.json,2,False,True,True,,3,3
+3,AboveBelow10.json,0,True,True,True,"1, 3",1,1
+4,AboveBelow10.json,1,True,True,True,"1, 3",2,2
+5,AboveBelow10.json,2,False,True,True,,1,1
+6,AboveBelow2.json,0,False,True,True,,1,1
+7,AboveBelow2.json,1,True,True,True,"1, 2, 3",1,1
+8,AboveBelow2.json,2,False,True,True,,1,1
+9,AboveBelow3.json,0,False,False,False,,,
+10,AboveBelow3.json,1,False,False,False,,,
+11,AboveBelow3.json,2,False,True,True,,2,2
+12,AboveBelow4.json,0,False,False,False,,,
+13,AboveBelow4.json,1,False,False,False,,,
+14,AboveBelow4.json,2,False,False,False,,,
+15,AboveBelow5.json,0,False,True,True,,1,1
+16,AboveBelow5.json,1,False,True,True,,1,1
+17,AboveBelow5.json,2,False,True,True,,1,1
+18,AboveBelow6.json,0,True,True,True,"1, 2, 3",1,1
+19,AboveBelow6.json,1,True,True,True,"1, 2, 3",1,1
+20,AboveBelow6.json,2,True,True,True,"1, 2, 3",1,1
+21,AboveBelow7.json,0,False,False,False,,,
+22,AboveBelow7.json,1,False,False,False,,,
+23,AboveBelow7.json,2,False,False,False,,,
+24,AboveBelow8.json,0,False,True,True,,1,1
+25,AboveBelow8.json,1,False,True,True,,1,1
+26,AboveBelow8.json,2,False,False,False,,,
+27,AboveBelow9.json,0,True,True,True,"1, 2, 3",2,2
+28,AboveBelow9.json,1,True,True,True,"1, 2, 3",1,1
+29,AboveBelow9.json,2,True,True,True,"1, 2, 3",1,1
+30,AboveBelowMinimal.json,0,True,True,True,"1, 2",1,1
+31,AboveBelowMinimal.json,1,True,True,True,"1, 2",1,1
+32,AboveBelowMinimal.json,2,True,True,True,"2, 3",2,2
+33,Center1.json,0,True,True,True,"1, 2, 3",1,1
+34,Center1.json,1,False,False,False,,,
+35,Center1.json,2,False,False,False,,,
+36,Center10.json,0,False,True,True,,1,1
+37,Center10.json,1,False,True,True,,1,1
+38,Center10.json,2,True,True,True,2,1,1
+39,Center2.json,0,False,True,True,,2,2
+40,Center2.json,1,False,True,True,,1,1
+41,Center2.json,2,False,False,False,,,
+42,Center3.json,0,False,True,True,,1,1
+43,Center3.json,1,False,False,False,,,
+44,Center3.json,2,True,False,False,2,,
+45,Center4.json,0,True,True,True,"1, 2",2,2
+46,Center4.json,1,False,False,False,,,
+47,Center4.json,2,False,False,False,,,
+48,Center5.json,0,False,True,True,,1,1
+49,Center5.json,1,False,True,True,,1,1
+50,Center5.json,2,False,True,True,,1,1
+51,Center6.json,0,False,True,True,,2,2
+52,Center6.json,1,False,False,False,,,
+53,Center6.json,2,False,False,False,,,
+54,Center7.json,0,False,True,True,,2,2
+55,Center7.json,1,False,True,True,,2,2
+56,Center7.json,2,False,False,False,,,
+57,Center8.json,0,False,False,False,,,
+58,Center8.json,1,False,False,False,,,
+59,Center8.json,2,False,False,False,,,
+60,Center9.json,0,True,True,True,3,2,2
+61,Center9.json,1,False,False,False,,,
+62,Center9.json,2,True,False,False,3,,
+63,CenterMinimal.json,0,False,True,True,,1,1
+64,CenterMinimal.json,1,False,True,True,,1,1
+65,CenterMinimal.json,2,False,True,True,,1,1
+66,CleanUp1.json,0,True,False,False,"1, 2, 3",,
+67,CleanUp1.json,1,True,True,True,2,1,1
+68,CleanUp1.json,2,True,False,False,2,,
+69,CleanUp10.json,0,False,True,True,,1,1
+70,CleanUp10.json,1,False,True,True,,1,1
+71,CleanUp10.json,2,False,False,False,,,
+72,CleanUp2.json,0,False,False,False,,,
+73,CleanUp2.json,1,False,True,True,,1,1
+74,CleanUp2.json,2,True,False,False,"1, 2, 3",,
+75,CleanUp3.json,0,False,True,True,,1,1
+76,CleanUp3.json,1,False,True,True,,1,1
+77,CleanUp3.json,2,False,False,False,,,
+78,CleanUp4.json,0,False,True,True,,2,2
+79,CleanUp4.json,1,False,True,True,,2,2
+80,CleanUp4.json,2,False,False,False,,,
+81,CleanUp5.json,0,True,True,True,2,1,1
+82,CleanUp5.json,1,False,False,False,,,
+83,CleanUp5.json,2,False,True,True,,3,3
+84,CleanUp6.json,0,True,True,True,1,3,3
+85,CleanUp6.json,1,False,False,False,,,
+86,CleanUp6.json,2,False,False,False,,,
+87,CleanUp7.json,0,False,False,False,,,
+88,CleanUp7.json,1,False,False,False,,,
+89,CleanUp7.json,2,False,False,False,,,
+90,CleanUp8.json,0,False,True,True,,1,1
+91,CleanUp8.json,1,False,True,True,,1,1
+92,CleanUp8.json,2,False,False,False,,,
+93,CleanUp9.json,0,False,True,True,,2,2
+94,CleanUp9.json,1,False,True,True,,1,1
+95,CleanUp9.json,2,False,False,False,,,
+96,CleanUpMinimal.json,0,True,True,True,2,1,1
+97,CleanUpMinimal.json,1,False,False,False,,,
+98,CleanUpMinimal.json,2,False,False,False,,,
+99,CompleteShape1.json,0,False,False,False,,,
+100,CompleteShape1.json,1,False,True,True,,1,1
+101,CompleteShape1.json,2,False,False,False,,,
+102,CompleteShape10.json,0,True,True,True,1,1,1
+103,CompleteShape10.json,1,True,True,True,1,1,1
+104,CompleteShape10.json,2,False,False,False,,,
+105,CompleteShape2.json,0,False,True,True,,3,3
+106,CompleteShape2.json,1,False,True,True,,1,1
+107,CompleteShape2.json,2,False,False,False,,,
+108,CompleteShape3.json,0,True,True,True,"1, 2, 3",3,3
+109,CompleteShape3.json,1,False,False,False,,,
+110,CompleteShape3.json,2,False,False,False,,,
+111,CompleteShape4.json,0,False,True,True,,1,1
+112,CompleteShape4.json,1,False,True,True,,1,1
+113,CompleteShape4.json,2,False,True,True,,1,1
+114,CompleteShape5.json,0,True,False,False,1,,
+115,CompleteShape5.json,1,False,False,False,,,
+116,CompleteShape5.json,2,False,False,False,,,
+117,CompleteShape6.json,0,False,True,True,,1,1
+118,CompleteShape6.json,1,False,True,True,,1,1
+119,CompleteShape6.json,2,False,True,True,,2,2
+120,CompleteShape7.json,0,True,False,True,"1, 2, 3",,3
+121,CompleteShape7.json,1,True,False,False,3,,
+122,CompleteShape7.json,2,True,False,False,3,,
+123,CompleteShape8.json,0,False,False,False,,,
+124,CompleteShape8.json,1,False,False,False,,,
+125,CompleteShape8.json,2,False,False,False,,,
+126,CompleteShape9.json,0,True,True,True,3,1,1
+127,CompleteShape9.json,1,False,False,False,,,
+128,CompleteShape9.json,2,True,True,True,2,1,1
+129,CompleteShapeMinimal.json,0,False,True,True,,1,1
+130,CompleteShapeMinimal.json,1,False,True,True,,1,1
+131,CompleteShapeMinimal.json,2,True,True,True,"2, 3",2,2
+132,Copy1.json,0,True,True,True,2,2,2
+133,Copy1.json,1,True,True,True,2,2,2
+134,Copy1.json,2,True,True,True,2,2,2
+135,Copy10.json,0,True,True,True,"1, 2, 3",1,1
+136,Copy10.json,1,False,False,False,,,
+137,Copy10.json,2,False,False,False,,,
+138,Copy2.json,0,True,False,False,"1, 2, 3",,
+139,Copy2.json,1,False,False,False,,,
+140,Copy2.json,2,False,False,False,,,
+141,Copy3.json,0,False,False,False,,,
+142,Copy3.json,1,False,False,False,,,
+143,Copy3.json,2,False,False,False,,,
+144,Copy4.json,0,False,False,False,,,
+145,Copy4.json,1,True,False,False,"1, 2, 3",,
+146,Copy4.json,2,False,False,False,,,
+147,Copy5.json,0,False,False,False,,,
+148,Copy5.json,1,False,False,False,,,
+149,Copy5.json,2,False,False,False,,,
+150,Copy6.json,0,False,True,True,,1,1
+151,Copy6.json,1,False,False,False,,,
+152,Copy6.json,2,False,False,False,,,
+153,Copy7.json,0,False,False,False,,,
+154,Copy7.json,1,False,False,False,,,
+155,Copy7.json,2,False,False,False,,,
+156,Copy8.json,0,False,True,True,,1,1
+157,Copy8.json,1,True,False,False,3,,
+158,Copy8.json,2,True,True,True,"1, 2",2,2
+159,Copy9.json,0,False,False,False,,,
+160,Copy9.json,1,False,False,False,,,
+161,Copy9.json,2,False,False,False,,,
+162,CopyMinimal.json,0,True,True,True,1,1,1
+163,CopyMinimal.json,1,True,True,True,1,1,1
+164,CopyMinimal.json,2,True,True,True,1,1,1
+165,Count1.json,0,True,False,False,1,,
+166,Count1.json,1,False,True,True,,2,2
+167,Count1.json,2,False,True,True,,3,3
+168,Count10.json,0,False,True,True,,2,2
+169,Count10.json,1,False,False,False,,,
+170,Count10.json,2,False,False,False,,,
+171,Count2.json,0,False,False,False,,,
+172,Count2.json,1,False,False,False,,,
+173,Count2.json,2,False,False,False,,,
+174,Count3.json,0,True,True,True,"1, 2, 3",2,2
+175,Count3.json,1,False,False,False,,,
+176,Count3.json,2,True,True,True,3,1,1
+177,Count4.json,0,False,True,True,,2,2
+178,Count4.json,1,True,True,True,"1, 2, 3","1, 2, 3","1, 2, 3"
+179,Count4.json,2,False,True,True,,2,2
+180,Count5.json,0,False,True,True,,1,1
+181,Count5.json,1,True,True,True,"1, 2, 3",1,1
+182,Count5.json,2,True,True,True,2,1,1
+183,Count6.json,0,True,True,True,2,2,2
+184,Count6.json,1,False,False,False,,,
+185,Count6.json,2,False,True,True,,3,3
+186,Count7.json,0,True,True,True,"1, 3",3,3
+187,Count7.json,1,True,False,False,"1, 3",,
+188,Count7.json,2,True,True,True,1,3,3
+189,Count8.json,0,True,False,True,"1, 2",,3
+190,Count8.json,1,False,True,True,,1,1
+191,Count8.json,2,True,False,True,1,,3
+192,Count9.json,0,False,False,False,,,
+193,Count9.json,1,False,True,True,,2,2
+194,Count9.json,2,False,True,True,,1,1
+195,CountMiminal.json,0,True,True,True,1,2,2
+196,CountMiminal.json,1,True,True,True,1,2,2
+197,CountMiminal.json,2,True,True,True,"1, 2",1,1
+198,ExtendToBoundary1.json,0,False,True,True,,3,3
+199,ExtendToBoundary1.json,1,True,True,True,"1, 2, 3",3,3
+200,ExtendToBoundary1.json,2,False,False,False,,,
+201,ExtendToBoundary10.json,0,False,True,True,,1,1
+202,ExtendToBoundary10.json,1,False,True,True,,1,1
+203,ExtendToBoundary10.json,2,False,True,True,,1,1
+204,ExtendToBoundary2.json,0,True,True,True,"1, 2, 3",2,2
+205,ExtendToBoundary2.json,1,True,True,True,"1, 2",2,2
+206,ExtendToBoundary2.json,2,True,True,True,"1, 2, 3",1,1
+207,ExtendToBoundary3.json,0,False,False,False,,,
+208,ExtendToBoundary3.json,1,False,False,False,,,
+209,ExtendToBoundary3.json,2,False,False,False,,,
+210,ExtendToBoundary4.json,0,False,True,True,,2,2
+211,ExtendToBoundary4.json,1,False,True,True,,1,1
+212,ExtendToBoundary4.json,2,False,False,False,,,
+213,ExtendToBoundary5.json,0,True,True,True,3,1,1
+214,ExtendToBoundary5.json,1,True,True,True,3,1,1
+215,ExtendToBoundary5.json,2,True,True,True,"1, 2, 3",1,1
+216,ExtendToBoundary6.json,0,True,True,True,"1, 3",1,1
+217,ExtendToBoundary6.json,1,True,True,True,3,1,1
+218,ExtendToBoundary6.json,2,True,True,True,3,1,1
+219,ExtendToBoundary7.json,0,True,True,True,"1, 2, 3",1,1
+220,ExtendToBoundary7.json,1,True,True,True,"1, 2, 3",1,1
+221,ExtendToBoundary7.json,2,True,True,True,"1, 2, 3",1,1
+222,ExtendToBoundary8.json,0,False,True,True,,1,1
+223,ExtendToBoundary8.json,1,False,True,True,,1,1
+224,ExtendToBoundary8.json,2,False,True,True,,1,1
+225,ExtendToBoundary9.json,0,True,True,True,3,1,1
+226,ExtendToBoundary9.json,1,False,False,False,,,
+227,ExtendToBoundary9.json,2,False,False,False,,,
+228,ExtendToBoundaryMinimal.json,0,True,True,True,1,1,1
+229,ExtendToBoundaryMinimal.json,1,True,True,True,1,1,1
+230,ExtendToBoundaryMinimal.json,2,True,True,True,1,1,1
+231,ExtractObjects1.json,0,True,True,True,"1, 3",1,1
+232,ExtractObjects1.json,1,False,True,True,,1,1
+233,ExtractObjects1.json,2,True,False,False,3,,
+234,ExtractObjects10.json,0,True,True,True,"1, 2, 3",1,1
+235,ExtractObjects10.json,1,True,True,True,1,2,2
+236,ExtractObjects10.json,2,True,True,True,"1, 3",1,1
+237,ExtractObjects2.json,0,True,True,True,2,1,1
+238,ExtractObjects2.json,1,True,False,False,2,,
+239,ExtractObjects2.json,2,False,False,False,,,
+240,ExtractObjects3.json,0,True,False,True,"1, 3",,3
+241,ExtractObjects3.json,1,True,False,True,"1, 2, 3",,3
+242,ExtractObjects3.json,2,True,False,False,"2, 3",,
+243,ExtractObjects4.json,0,False,True,True,,1,1
+244,ExtractObjects4.json,1,False,False,False,,,
+245,ExtractObjects4.json,2,False,True,True,,1,1
+246,ExtractObjects5.json,0,False,False,False,,,
+247,ExtractObjects5.json,1,False,False,False,,,
+248,ExtractObjects5.json,2,False,False,False,,,
+249,ExtractObjects6.json,0,False,False,False,,,
+250,ExtractObjects6.json,1,False,True,True,,3,3
+251,ExtractObjects6.json,2,False,False,False,,,
+252,ExtractObjects7.json,0,False,False,False,,,
+253,ExtractObjects7.json,1,False,False,False,,,
+254,ExtractObjects7.json,2,False,False,False,,,
+255,ExtractObjects8.json,0,False,False,False,,,
+256,ExtractObjects8.json,1,False,True,True,,3,3
+257,ExtractObjects8.json,2,False,False,False,,,
+258,ExtractObjects9.json,0,True,True,True,"1, 2, 3",1,1
+259,ExtractObjects9.json,1,True,True,True,1,1,1
+260,ExtractObjects9.json,2,True,True,True,1,1,1
+261,ExtractObjectsMinimal.json,0,True,True,True,"2, 3",1,1
+262,ExtractObjectsMinimal.json,1,True,True,True,"1, 2, 3",1,1
+263,ExtractObjectsMinimal.json,2,True,True,True,3,1,1
+264,FilledNotFilled1.json,0,True,True,True,"1, 2, 3",1,1
+265,FilledNotFilled1.json,1,True,True,True,2,1,1
+266,FilledNotFilled1.json,2,True,True,True,1,1,1
+267,FilledNotFilled10.json,0,False,False,False,,,
+268,FilledNotFilled10.json,1,False,True,True,,1,1
+269,FilledNotFilled10.json,2,False,True,True,,2,2
+270,FilledNotFilled2.json,0,True,True,True,"1, 2, 3",1,1
+271,FilledNotFilled2.json,1,True,True,True,"1, 2, 3",1,1
+272,FilledNotFilled2.json,2,True,True,True,1,1,1
+273,FilledNotFilled3.json,0,True,False,False,2,,
+274,FilledNotFilled3.json,1,True,False,False,2,,
+275,FilledNotFilled3.json,2,True,False,True,2,,3
+276,FilledNotFilled4.json,0,True,True,True,3,1,1
+277,FilledNotFilled4.json,1,False,True,True,,1,1
+278,FilledNotFilled4.json,2,False,True,True,,1,1
+279,FilledNotFilled5.json,0,False,True,True,,1,1
+280,FilledNotFilled5.json,1,False,True,True,,1,1
+281,FilledNotFilled5.json,2,False,True,True,,3,3
+282,FilledNotFilled6.json,0,True,True,True,"2, 3",1,1
+283,FilledNotFilled6.json,1,False,False,False,,,
+284,FilledNotFilled6.json,2,False,True,True,,1,1
+285,FilledNotFilled7.json,0,False,True,True,,1,1
+286,FilledNotFilled7.json,1,False,True,True,,1,1
+287,FilledNotFilled7.json,2,False,True,True,,2,2
+288,FilledNotFilled8.json,0,False,False,False,,,
+289,FilledNotFilled8.json,1,False,False,False,,,
+290,FilledNotFilled8.json,2,False,False,False,,,
+291,FilledNotFilled9.json,0,True,True,True,"1, 2, 3",1,1
+292,FilledNotFilled9.json,1,True,True,True,"1, 2, 3",2,2
+293,FilledNotFilled9.json,2,False,True,True,,1,1
+294,FilledNotFilledMinimal.json,0,False,True,True,,1,1
+295,FilledNotFilledMinimal.json,1,False,True,True,,1,1
+296,FilledNotFilledMinimal.json,2,False,True,True,,1,1
+297,HorizontalVertical1.json,0,False,False,False,,,
+298,HorizontalVertical1.json,1,False,True,True,,2,2
+299,HorizontalVertical1.json,2,False,False,False,,,
+300,HorizontalVertical10.json,0,True,False,False,"1, 2, 3",,
+301,HorizontalVertical10.json,1,False,False,False,,,
+302,HorizontalVertical10.json,2,False,False,False,,,
+303,HorizontalVertical2.json,0,False,False,False,,,
+304,HorizontalVertical2.json,1,True,False,False,1,,
+305,HorizontalVertical2.json,2,False,True,True,,1,1
+306,HorizontalVertical3.json,0,False,True,True,,1,1
+307,HorizontalVertical3.json,1,False,True,True,,1,1
+308,HorizontalVertical3.json,2,False,True,True,,1,1
+309,HorizontalVertical4.json,0,False,True,True,,1,1
+310,HorizontalVertical4.json,1,False,False,False,,,
+311,HorizontalVertical4.json,2,False,True,True,,3,3
+312,HorizontalVertical5.json,0,False,False,False,,,
+313,HorizontalVertical5.json,1,False,True,True,,1,1
+314,HorizontalVertical5.json,2,False,False,False,,,
+315,HorizontalVertical6.json,0,False,True,True,,1,1
+316,HorizontalVertical6.json,1,False,True,True,,3,3
+317,HorizontalVertical6.json,2,False,False,False,,,
+318,HorizontalVertical7.json,0,False,False,False,,,
+319,HorizontalVertical7.json,1,False,True,True,,2,2
+320,HorizontalVertical7.json,2,False,True,True,,1,1
+321,HorizontalVertical8.json,0,False,False,False,,,
+322,HorizontalVertical8.json,1,False,True,True,,3,3
+323,HorizontalVertical8.json,2,False,False,False,,,
+324,HorizontalVertical9.json,0,False,False,False,,,
+325,HorizontalVertical9.json,1,True,False,False,"1, 2",,
+326,HorizontalVertical9.json,2,False,False,False,,,
+327,HorizontalVerticalMinimal.json,0,True,False,False,"2, 3",,
+328,HorizontalVerticalMinimal.json,1,True,False,False,"2, 3",,
+329,HorizontalVerticalMinimal.json,2,False,True,True,,2,2
+330,InsideOutside1.json,0,False,False,False,,,
+331,InsideOutside1.json,1,False,False,False,,,
+332,InsideOutside1.json,2,False,True,False,,"1, 2, 3",
+333,InsideOutside10.json,0,False,False,False,,,
+334,InsideOutside10.json,1,False,False,False,,,
+335,InsideOutside10.json,2,False,True,True,,3,3
+336,InsideOutside2.json,0,False,False,False,,,
+337,InsideOutside2.json,1,False,True,True,,1,1
+338,InsideOutside2.json,2,False,False,False,,,
+339,InsideOutside3.json,0,False,True,True,,1,1
+340,InsideOutside3.json,1,False,True,True,,1,1
+341,InsideOutside3.json,2,False,True,True,,1,1
+342,InsideOutside4.json,0,True,True,True,"1, 2, 3",2,2
+343,InsideOutside4.json,1,True,True,True,"1, 2, 3",2,2
+344,InsideOutside4.json,2,False,True,True,,1,1
+345,InsideOutside5.json,0,False,False,False,,,
+346,InsideOutside5.json,1,False,False,False,,,
+347,InsideOutside5.json,2,False,True,True,,3,3
+348,InsideOutside6.json,0,False,True,True,,1,1
+349,InsideOutside6.json,1,False,False,False,,,
+350,InsideOutside6.json,2,False,False,False,,,
+351,InsideOutside7.json,0,False,False,False,,,
+352,InsideOutside7.json,1,False,False,False,,,
+353,InsideOutside7.json,2,False,True,True,,1,1
+354,InsideOutside8.json,0,False,True,True,,1,1
+355,InsideOutside8.json,1,False,True,True,,2,2
+356,InsideOutside8.json,2,False,False,False,,,
+357,InsideOutside9.json,0,True,True,True,2,1,1
+358,InsideOutside9.json,1,False,True,True,,1,1
+359,InsideOutside9.json,2,False,True,True,,1,1
+360,InsideOutsideMinimal.json,0,False,True,True,,1,1
+361,InsideOutsideMinimal.json,1,False,True,True,,1,1
+362,InsideOutsideMinimal.json,2,False,True,True,,1,1
+363,MoveToBoundary1.json,0,True,True,True,2,1,1
+364,MoveToBoundary1.json,1,True,True,True,2,1,1
+365,MoveToBoundary1.json,2,False,False,False,,,
+366,MoveToBoundary10.json,0,False,False,False,,,
+367,MoveToBoundary10.json,1,False,False,False,,,
+368,MoveToBoundary10.json,2,False,False,False,,,
+369,MoveToBoundary2.json,0,False,False,False,,,
+370,MoveToBoundary2.json,1,False,True,True,,2,2
+371,MoveToBoundary2.json,2,False,False,False,,,
+372,MoveToBoundary3.json,0,True,True,True,2,1,1
+373,MoveToBoundary3.json,1,True,True,True,2,1,1
+374,MoveToBoundary3.json,2,True,False,False,2,,
+375,MoveToBoundary4.json,0,True,True,True,2,1,1
+376,MoveToBoundary4.json,1,True,True,True,2,1,1
+377,MoveToBoundary4.json,2,True,True,True,2,1,1
+378,MoveToBoundary5.json,0,False,False,False,,,
+379,MoveToBoundary5.json,1,False,False,False,,,
+380,MoveToBoundary5.json,2,False,False,False,,,
+381,MoveToBoundary6.json,0,False,True,True,,1,1
+382,MoveToBoundary6.json,1,False,True,True,,1,1
+383,MoveToBoundary6.json,2,True,False,False,"1, 2, 3",,
+384,MoveToBoundary7.json,0,False,False,False,,,
+385,MoveToBoundary7.json,1,False,False,False,,,
+386,MoveToBoundary7.json,2,False,False,False,,,
+387,MoveToBoundary8.json,0,False,False,False,,,
+388,MoveToBoundary8.json,1,False,False,False,,,
+389,MoveToBoundary8.json,2,False,True,True,,3,3
+390,MoveToBoundary9.json,0,False,False,False,,,
+391,MoveToBoundary9.json,1,False,False,False,,,
+392,MoveToBoundary9.json,2,False,False,False,,,
+393,MoveToBoundaryMinimal.json,0,False,True,True,,3,3
+394,MoveToBoundaryMinimal.json,1,False,False,False,,,
+395,MoveToBoundaryMinimal.json,2,False,False,False,,,
+396,Order1.json,0,False,False,False,,,
+397,Order1.json,1,False,False,False,,,
+398,Order1.json,2,False,False,False,,,
+399,Order10.json,0,True,True,True,1,1,1
+400,Order10.json,1,True,True,True,1,1,1
+401,Order10.json,2,True,True,True,1,1,1
+402,Order2.json,0,False,False,False,,,
+403,Order2.json,1,False,False,False,,,
+404,Order2.json,2,False,False,False,,,
+405,Order3.json,0,False,False,False,,,
+406,Order3.json,1,False,False,False,,,
+407,Order3.json,2,False,False,False,,,
+408,Order4.json,0,False,False,False,,,
+409,Order4.json,1,False,False,False,,,
+410,Order4.json,2,False,False,False,,,
+411,Order5.json,0,False,False,False,,,
+412,Order5.json,1,False,False,False,,,
+413,Order5.json,2,False,False,False,,,
+414,Order6.json,0,False,True,True,,1,1
+415,Order6.json,1,True,False,False,"2, 3",,
+416,Order6.json,2,False,False,False,,,
+417,Order7.json,0,False,True,True,,1,1
+418,Order7.json,1,False,False,False,,,
+419,Order7.json,2,False,True,True,,1,1
+420,Order8.json,0,True,True,True,2,1,1
+421,Order8.json,1,True,True,True,2,1,1
+422,Order8.json,2,False,False,False,,,
+423,Order9.json,0,False,False,False,,,
+424,Order9.json,1,False,False,False,,,
+425,Order9.json,2,True,False,False,2,,
+426,OrderMinimal.json,0,False,True,True,,1,1
+427,OrderMinimal.json,1,False,True,True,,3,3
+428,OrderMinimal.json,2,False,True,True,,1,1
+429,SameDifferent1.json,0,False,True,True,,2,2
+430,SameDifferent1.json,1,False,False,False,,,
+431,SameDifferent1.json,2,False,True,True,,1,1
+432,SameDifferent10.json,0,False,False,False,,,
+433,SameDifferent10.json,1,False,False,False,,,
+434,SameDifferent10.json,2,False,True,True,,2,2
+435,SameDifferent2.json,0,False,False,False,,,
+436,SameDifferent2.json,1,False,False,False,,,
+437,SameDifferent2.json,2,False,False,False,,,
+438,SameDifferent3.json,0,False,True,True,,1,1
+439,SameDifferent3.json,1,False,True,True,,1,1
+440,SameDifferent3.json,2,False,True,True,,3,3
+441,SameDifferent4.json,0,False,False,False,,,
+442,SameDifferent4.json,1,False,True,True,,1,1
+443,SameDifferent4.json,2,False,False,False,,,
+444,SameDifferent5.json,0,True,True,True,"1, 2, 3",1,1
+445,SameDifferent5.json,1,False,True,True,,1,1
+446,SameDifferent5.json,2,False,True,True,,1,1
+447,SameDifferent6.json,0,False,True,True,,2,2
+448,SameDifferent6.json,1,False,False,False,,,
+449,SameDifferent6.json,2,False,False,False,,,
+450,SameDifferent7.json,0,False,False,False,,,
+451,SameDifferent7.json,1,False,True,True,,2,2
+452,SameDifferent7.json,2,False,False,False,,,
+453,SameDifferent8.json,0,False,False,False,,,
+454,SameDifferent8.json,1,True,True,True,1,2,2
+455,SameDifferent8.json,2,True,False,False,2,,
+456,SameDifferent9.json,0,True,True,True,"1, 2, 3",1,1
+457,SameDifferent9.json,1,False,True,True,,2,2
+458,SameDifferent9.json,2,True,True,True,"1, 2",1,1
+459,SameDifferentMinimal.json,0,False,True,True,,1,1
+460,SameDifferentMinimal.json,1,True,True,True,"1, 2, 3",2,2
+461,SameDifferentMinimal.json,2,False,False,False,,,
+462,TopBottom2D1.json,0,True,True,True,3,1,1
+463,TopBottom2D1.json,1,True,False,False,3,,
+464,TopBottom2D1.json,2,True,False,False,"1, 2",,
+465,TopBottom2D10.json,0,False,False,False,,,
+466,TopBottom2D10.json,1,False,False,False,,,
+467,TopBottom2D10.json,2,False,False,False,,,
+468,TopBottom2D2.json,0,True,True,True,"1, 2",1,1
+469,TopBottom2D2.json,1,False,True,True,,1,1
+470,TopBottom2D2.json,2,True,True,True,"1, 2",1,1
+471,TopBottom2D3.json,0,True,True,True,"2, 3",1,1
+472,TopBottom2D3.json,1,True,True,True,"2, 3",1,1
+473,TopBottom2D3.json,2,True,True,True,3,2,2
+474,TopBottom2D4.json,0,False,False,False,,,
+475,TopBottom2D4.json,1,False,False,False,,,
+476,TopBottom2D4.json,2,True,False,True,"1, 2",,"2, 3"
+477,TopBottom2D5.json,0,False,False,False,,,
+478,TopBottom2D5.json,1,False,False,False,,,
+479,TopBottom2D5.json,2,False,False,False,,,
+480,TopBottom2D6.json,0,True,True,True,"2, 3",1,1
+481,TopBottom2D6.json,1,False,True,True,,1,1
+482,TopBottom2D6.json,2,False,True,True,,1,1
+483,TopBottom2D7.json,0,True,True,True,"1, 2",1,1
+484,TopBottom2D7.json,1,True,True,True,"1, 2",2,2
+485,TopBottom2D7.json,2,True,True,True,"2, 3",1,1
+486,TopBottom2D8.json,0,True,True,True,1,1,1
+487,TopBottom2D8.json,1,False,True,True,,1,1
+488,TopBottom2D8.json,2,True,True,True,1,1,1
+489,TopBottom2D9.json,0,False,True,True,,2,2
+490,TopBottom2D9.json,1,True,True,True,"1, 2, 3",1,1
+491,TopBottom2D9.json,2,True,False,False,"1, 2, 3",,
+492,TopBottom2DMinimal.json,0,False,True,True,,1,1
+493,TopBottom2DMinimal.json,1,True,False,False,2,,
+494,TopBottom2DMinimal.json,2,True,True,True,"1, 2",1,1
+495,TopBottom3D1.json,0,False,True,True,,1,1
+496,TopBottom3D1.json,1,False,True,True,,1,1
+497,TopBottom3D1.json,2,False,False,False,,,
+498,TopBottom3D10.json,0,False,False,False,,,
+499,TopBottom3D10.json,1,False,True,True,,1,1
+500,TopBottom3D10.json,2,False,True,True,,1,1
+501,TopBottom3D2.json,0,False,True,True,,1,1
+502,TopBottom3D2.json,1,False,True,True,,1,1
+503,TopBottom3D2.json,2,False,True,True,,3,3
+504,TopBottom3D3.json,0,False,True,True,,1,1
+505,TopBottom3D3.json,1,False,True,True,,1,1
+506,TopBottom3D3.json,2,False,False,False,,,
+507,TopBottom3D4.json,0,False,False,False,,,
+508,TopBottom3D4.json,1,False,False,False,,,
+509,TopBottom3D4.json,2,False,False,False,,,
+510,TopBottom3D5.json,0,False,True,True,,3,3
+511,TopBottom3D5.json,1,False,False,False,,,
+512,TopBottom3D5.json,2,False,False,False,,,
+513,TopBottom3D6.json,0,False,False,False,,,
+514,TopBottom3D6.json,1,False,False,False,,,
+515,TopBottom3D6.json,2,False,True,True,,2,2
+516,TopBottom3D7.json,0,False,True,True,,1,1
+517,TopBottom3D7.json,1,False,True,True,,1,1
+518,TopBottom3D7.json,2,False,True,True,,1,1
+519,TopBottom3D8.json,0,True,True,True,2,1,1
+520,TopBottom3D8.json,1,False,False,False,,,
+521,TopBottom3D8.json,2,False,False,False,,,
+522,TopBottom3D9.json,0,False,False,False,,,
+523,TopBottom3D9.json,1,False,False,False,,,
+524,TopBottom3D9.json,2,False,False,False,,,
+525,TopBottom3DMinimal.json,0,False,True,True,,1,1
+526,TopBottom3DMinimal.json,1,True,True,True,1,1,1
+527,TopBottom3DMinimal.json,2,False,False,False,,,
