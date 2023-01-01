@@ -31,7 +31,7 @@ def parse_string(pred_string):
 
 def score(sub_table, solver_list):
     for solver in solver_list:
-        sub_table[solver + '_correct'], sub_table[solver + '_correct_indices']= zip(*sub_table.apply(lambda row: score_row(row, solver), axis=1))
+        sub_table[solver + '_correct'], sub_table[solver + '_indices']= zip(*sub_table.apply(lambda row: score_row(row, solver), axis=1))
 
 def get_problem(row):
     problem_file = row["problem_file"]
@@ -82,24 +82,38 @@ def gen_suggestions(row, solver_list, output_name):
             json.dump(problem, suggestion_file, indent=4)
 
 
+# how to call
+# python score_submission.py <path to dataset> <path to submission file> <name of output file>
+# default values can be seen on lines labeled "default"
+# <path to dataset> the dataset should be the directory that contains the .json files
+# <path to submission file> this file should be of the following format:
+# output_id      | <first model name> | <second model name> | ...
+# ------------------------------------------------------
+# problemName_0  | <Guesses>          | <Guesses>           | ...
+# ...
+# Guesses are a space delimited list of condensed arrays. A condensed array is an abbreviated way of expressing a 2d array: [[1, 2, 3], [4, 5, 6], [7, 8, 9]] -> |123|456|789|
+# See sample_submission.csv for an example
+# <name of output file> the scoring output will be stored in a zip file located at "output/<name of output file>". The zip file will contain 
+# a csv with the scores of the submission files
+
 if __name__ == "__main__":
     # if the name of the dataset was given
     if len(sys.argv) > 1:
         dataset = sys.argv[1]
     else:
-        dataset = "arc-datasets/small_dataset_0"
+        dataset = "arc-datasets/small_dataset_0" # default
 
     # if the name of the input file (the submission file to score) was given
     if len(sys.argv) > 2:
         submission_name = sys.argv[2]
     else:
-        submission_name = "output/submission.csv"
+        submission_name = "output/submission.csv" # default
     
     # if the name of the output file (the name of the zip file in which both the output json and the score csv will be stored) was given
     if len(sys.argv) > 3:
         output_name = sys.argv[3]
     else:
-        output_name = os.path.basename(submission_name).split(".")[0]
+        output_name = os.path.basename(submission_name).split(".")[0] # default
 
     full_filename = os.path.join("output", output_name)
     
