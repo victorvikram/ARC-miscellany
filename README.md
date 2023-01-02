@@ -34,5 +34,6 @@ These are results of experiments running various solvers on datasets.
 * For the full modified version of the first place ARC solution, go to [ARC icecuber](https://github.com/victorvikram/ARC-icecuber)
 * [The original ARC dataset](https://github.com/fchollet/ARC)
 * [First place ARC solution repository](https://github.com/top-quarks/ARC-solution)
-* [Third place ARC solution repository](https://github.com/alejandrodemiquel/ARC_Kaggle)
+* [Second place ARC solution repository](https://github.com/alejandrodemiquel/ARC_Kaggle)
+* [Third place ARC solution notebook on Kaggle](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook)
 
