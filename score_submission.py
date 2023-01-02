@@ -3,6 +3,7 @@ import os
 import json
 import sys
 import shutil
+import math
 
 def parse_row(row):
     mask = row.index.isin(["output_id"])
@@ -19,6 +20,8 @@ def parse_row(row):
     
 
 def parse_string(pred_string):
+    if not isinstance(pred_string, str):
+        pred_string = ""
     list_of_pred_strings = pred_string.split(" ")
     list_of_pred_strings = [elt for elt in list_of_pred_strings if elt != ""]
     list_of_pred_lists = [[elt for elt in arr.split("|") if elt != ""] for arr in list_of_pred_strings]
