@@ -10,7 +10,7 @@ There are some hangups: for example, the code only seems to work on linux. See [
 This contains a single notebook that runs the third place solution end-to-end. Follow the instructions in the first cell to run it. The output is similarly a submission file, `submission.csv`, that can be scored using `score_submission.py`.
 
 ## solution-third-place-pruned
-The final copy of this notebook is titled `third-place-end-to-end.ipnyb` (no indices). Follow the instructions in the first cell to run it. The output is similarly a submission file, `submission.csv`, that can be scored using `score_submission.py`.
+The final copy of this notebook is titled `third-place-end-to-end.ipnyb` (no indices). Follow the instructions at the top to run it. The output is similarly a submission file, `submission.csv`, that can be scored using `score_submission.py`.
 
 ## score_submission.py
 This script scores submission files. See the comments in the file for how to use it.
@@ -34,5 +34,6 @@ These are results of experiments running various solvers on datasets.
 * For the full modified version of the first place ARC solution, go to [ARC icecuber](https://github.com/victorvikram/ARC-icecuber)
 * [The original ARC dataset](https://github.com/fchollet/ARC)
 * [First place ARC solution repository](https://github.com/top-quarks/ARC-solution)
-* [Third place ARC solution repository](https://github.com/alejandrodemiquel/ARC_Kaggle)
+* [Second place ARC solution repository](https://github.com/alejandrodemiquel/ARC_Kaggle)
+* [Third place ARC solution notebook on Kaggle](https://www.kaggle.com/code/ilialar/3rd-place-end-to-end-solution/notebook)
 
