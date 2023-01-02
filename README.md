@@ -6,8 +6,11 @@ The output is a submission file which can be scored using `score_submission.py`.
 
 There are some hangups: for example, the code only seems to work on linux. See [the full forked repository](https://github.com/victorvikram/ARC-icecuber) for more details.
 
-## solution-third-place-pruned
+## solution-second-place-pruned
 This contains a single notebook that runs the third place solution end-to-end. Follow the instructions in the first cell to run it. The output is similarly a submission file, `submission.csv`, that can be scored using `score_submission.py`.
+
+## solution-third-place-pruned
+The final copy of this notebook is titled `third-place-end-to-end.ipnyb` (no indices). Follow the instructions in the first cell to run it. The output is similarly a submission file, `submission.csv`, that can be scored using `score_submission.py`.
 
 ## score_submission.py
 This script scores submission files. See the comments in the file for how to use it.
